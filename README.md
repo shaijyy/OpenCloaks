@@ -1,4 +1,5 @@
 # OpenCloaks
-a fully open source, indirect clone (more of a copycat) of Cloaks+
+a fully open-source, self-hostable, community-driven, OptiFine-supported Minecraft cosmetics protocol.
 
-in development :)
+in early stages of development.
+PoC and API documentation is available on this very repo :)
