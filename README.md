@@ -7,6 +7,7 @@ in very early stages of development. PoC and API documentation is available on t
 | Service | Directory |
 | --------- | ---------- |
 | Server | `/server` |
+| MC Server | `/minecraft` |
 | Website | `/website` |
 | Management Panel | `/management` |
 | Discord Bot | `/discord` |
